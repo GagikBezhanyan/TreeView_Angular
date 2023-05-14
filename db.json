@@ -1,0 +1,436 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "name": "Car",
+            "cars": [
+                {
+                    "id": 1,
+                    "mark": "Mercedes-Benz",
+                    "models": [
+                        {
+                            "id": 1,
+                            "model": "Sedan",
+                            "classes": [
+                                {
+                                    "id": 1,
+                                    "class": "C-Class",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "C 220"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "C 55 AMG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "class": "E-Class",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "E 350"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "E 43 AMG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 3,
+                                    "class": "S-Class",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "S 350"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "S 420"
+                                        },
+                                        {
+                                            "id": 3,
+                                            "type": "S 65 AMG"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "model": "SUV",
+                            "classes": [
+                                {
+                                    "id": 1,
+                                    "class": "G-Class",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "G 550"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "G 63 AMG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "class": "ML-Class",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "ML 450"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "ML 63 AMG"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "model": "Coupe",
+                            "classes": [
+                                {
+                                    "id": 1,
+                                    "class": "CLS-Class",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "CLS 55 AMG"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "CLS 63 AMG"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "class": "E-Class",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "E 55 Coupe"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "E 60 AMG Coupe"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "mark": "BMW",
+                    "models": [
+                        {
+                            "id": 1,
+                            "model": "Sedan",
+                            "classes": [
+                                {
+                                    "id": 1,
+                                    "class": "3 Series",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "328"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "335"
+                                        },
+                                        {
+                                            "id": 3,
+                                            "type": "Active Hybrid 3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 1,
+                                    "class": "5 Series",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "540"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "550"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "model": "Cupe",
+                            "classes": [
+                                {
+                                    "id": 1,
+                                    "class": "4 Series",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "425"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "440"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": 2,
+                                    "class": "i Series",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "i8"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "model": "SUV",
+                            "clases": [
+                                {
+                                    "id": 1,
+                                    "class": "X series",
+                                    "types": [
+                                        {
+                                            "id": 1,
+                                            "type": "X5"
+                                        },
+                                        {
+                                            "id": 2,
+                                            "type": "X7"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ] 
+        },
+        {
+            "id": 2,
+            "name": "Estate",
+            "estate": [
+                {
+                    "id": 1,
+                    "region": "Yerevan",
+                    "categories": [
+                        {
+                            "id": 1,
+                            "category": "Apartments",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "1 room"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "2 rooms"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "3 rooms"
+                                },
+                                {
+                                    "id": 4,
+                                    "type": "4+ rooms"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "category": "Houses",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "Houses"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "Cottages"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "Townhouses"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "region": "Armavir",
+                    "categories": [
+                        {
+                            "id": 1,
+                            "category": "Apartments",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "1 room"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "2 rooms"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "3 rooms"
+                                },
+                                {
+                                    "id": 4,
+                                    "type": "4+ rooms"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "category": "Houses",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "Houses"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "Cottages"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "Townhouses"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "category": "Land Areas",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "Buildable lands"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "Agricult.lands"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "Construction sites for residential buildings"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "region": "Shirak",
+                    "categories": [
+                        {
+                            "id": 1,
+                            "category": "Apartments",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "1 room"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "2 rooms"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "3 rooms"
+                                },
+                                {
+                                    "id": 4,
+                                    "type": "4+ rooms"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "category": "Houses",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "Houses"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "Cottages"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "Townhouses"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 3,
+                            "category": "Land Areas",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "Buildable lands"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "Agricult.lands"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "Construction sites for residential buildings"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "category": "Commercial",
+                            "types": [
+                                {
+                                    "id": 1,
+                                    "type": "Offices"
+                                },
+                                {
+                                    "id": 2,
+                                    "type": "Shops"
+                                },
+                                {
+                                    "id": 3,
+                                    "type": "Public catering"
+                                },
+                                {
+                                    "id": 4,
+                                    "type": "Industry"
+                                },
+                                {
+                                    "id": 5,
+                                    "type": "Universal premises"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
